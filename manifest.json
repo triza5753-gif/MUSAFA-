@@ -1,0 +1,25 @@
+{
+  "name": "MUSAFA Mobile - Sistem Managemen Agenda dan Tugas",
+  "short_name": "MUSAFA Mobile",
+  "description": "Sistem Manajemen Agenda, Jadwal Pelajaran/Ujian, Tugas, Notulensi PDF, dan TTE",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1v9XLw_NjWKP9zdtIgREkPYmgakhKMq_n",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1v9XLw_NjWKP9zdtIgREkPYmgakhKMq_n",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
